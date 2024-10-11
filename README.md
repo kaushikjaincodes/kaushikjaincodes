@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Meet Scheduler](https://github.com/kaushikjaincodes/Meet-Scheduler)
 
-- 🌱 I’m currently learning **Harkirat Singh Cohort**
+- 🌱 I’m currently learning from **Harkirat Singh's Cohort**
 
 - 👯 I’m looking to collaborate on **Open Source**
 
