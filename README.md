@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/kaushikjain2266" target="blank"><img src="https://img.shields.io/twitter/follow/kaushikjain2266?logo=twitter&style=for-the-badge" alt="kaushikjain2266" /></a> </p>
 
-- 🔭 I’m currently working on [Meet Scheduler](https://github.com/kaushikjaincodes/Meet-Scheduler)
+- 🔭 I’m currently working on [Mini Minter](https://github.com/kaushikjaincodes/MiniMinter)
 
 - 🌱 I’m currently learning from **Harkirat Singh's Cohort**
 
